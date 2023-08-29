@@ -1,4 +1,4 @@
-# New Year Eve CountDown
+# Responsible  New Year Eve CountDown
 hey, I made this project using html - css and a lil bit of js , hope you enjoy it !  <br>
 you can acess this project here : https://luckxsz.github.io/New-Year-Eve-CountDown/
 
